@@ -4,8 +4,8 @@
     "tr": "/cv-tr.pdf"
   },
   "about": {
-    "avatar": "/about/avatar.webp",
-    "portrait": "/about/portrait.webp",
+    "avatar": "/avatar.webp",
+    "portrait": "/portrait.webp",
     "intro": {
       "en": "Hi, I'm **Kintaro**. I'm a *Full Stack Developer* focused on building **clean and sustainable systems**.",
       "tr": "Selam, ben **Kintaro**. **Temiz ve sürdürülebilir sistemler** kurmaya odaklanan bir *Full Stack Geliştiriciyim*."
